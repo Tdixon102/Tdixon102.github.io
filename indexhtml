@@ -14,7 +14,10 @@
   p{
     color: #6cba88;
   }
-<p> I am an IT student. I enjoy taking what I learn and applying it to real coding situations. I cannot wait to work for AWS or Microsoft.</p>
+   </style>
 </head>
-</style>
-</html>
+<body>
+    <h1> MY name is TJ</h1>
+    <p> I am an IT student. I enjoy taking what I learn and applying it to real coding situations. I cannot wait to work for AWS or Microsoft.</p>
+</body>
+</hmtl>
